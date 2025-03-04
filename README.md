@@ -2,7 +2,7 @@
   <img src="https://github.com/aliasexo/fLock/blob/main/fLock.png?raw=true" alt="alt text">
 </p>
 
-<h1 align="center">fLock is a simple command-line executable that encrypts and decrypts directories and subdirectories from the chosen dir</h1>
+<h1 align="center">fLock is a simple command-line executable that encrypt and decrypt directories and subdirectories from the chosen dir</h1>
 
 ## Usage
 flock IV KEY encrypt|decrypt dir
