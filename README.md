@@ -4,7 +4,7 @@
 flock IV KEY encrypt|decrypt dir
 
 ## Iv & Key:
-DON'T use white spaces and special characters for the IV and KEY
+**don't** use white spaces and special characters for the IV and KEY
 
 IV must be 16 characters long
 
