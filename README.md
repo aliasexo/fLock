@@ -13,6 +13,6 @@ KEY must be 32 characters long
 fLock must be executed with administrator privileges
 
 ## Example 
-flock aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb encrypt DIRPATH
+flock aasimple16chariv asimple32charkeyasimple32charkey encrypt DIRPATH
 
-flock aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb decrypt DIRPATH
+flock aasimple16chariv asimple32charkeyasimple32charkey decrypt DIRPATH
