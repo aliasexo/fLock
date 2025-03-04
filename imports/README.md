@@ -1,1 +1,1 @@
-## include this dlls into > C:\Windows\System32 ## if fLock imports are missing
+## include this dlls into <sub>C:\Windows\System32</sub> if fLock imports are missing
