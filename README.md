@@ -1,4 +1,6 @@
-![alt text](https://github.com/aliasexo/fLock/blob/main/fLock.png?raw=true)
+<p align="center">
+  <img src="https://github.com/aliasexo/fLock/blob/main/fLock.png?raw=true" alt="alt text">
+</p>
 # fLock is a simple command-line executable that encrypts and decrypts directories and subdirectories from the chosen dir
 
 ## Usage
