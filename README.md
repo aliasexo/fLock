@@ -1,9 +1,9 @@
 # fLock is a simple command-line executable that encrypts and decrypts directories and subdirectories from the chosen dir
 
-## Usage:
+## Usage
 flock IV KEY encrypt|decrypt dir
 
-## Iv & Key:
+## Iv & Key
 **don't** use white spaces and special characters for the IV and KEY
 
 IV must be 16 characters long
