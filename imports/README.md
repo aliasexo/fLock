@@ -1,1 +1,1 @@
-put this dlls into C:\Windows\System32 if fLock imports are missing
+# put this dlls into C:\Windows\System32 if fLock imports are missing
