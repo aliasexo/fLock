@@ -14,4 +14,5 @@ fLock must be executed with administrator privileges
 
 ## Example 
 flock aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb encrypt DIRPATH
+
 flock aaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb decrypt DIRPATH
